@@ -102,7 +102,7 @@ body {
   background-color: #b1a374 !important;
 }
 .bg-warning {
-  background-color: #60858e !important;
+  background-color: #5b686b !important;
 }
 .bg-danger {
   background-color: #b1a374 !important;
@@ -189,8 +189,8 @@ body {
 }
 .btn-warning,
 .btn-warning:active {
-  background-color: #60858e !important;
-  border-color: #60858e !important;
+  background-color: #5b686b !important;
+  border-color: #5b686b !important;
   color: #ffffff !important;
 }
 .btn-warning:hover,
@@ -198,14 +198,14 @@ body {
 .btn-warning.focus,
 .btn-warning.active {
   color: #ffffff !important;
-  background-color: #415a60 !important;
-  border-color: #415a60 !important;
+  background-color: #384042 !important;
+  border-color: #384042 !important;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #415a60 !important;
-  border-color: #415a60 !important;
+  background-color: #384042 !important;
+  border-color: #384042 !important;
 }
 .btn-danger,
 .btn-danger:active {
@@ -353,22 +353,22 @@ body {
 .btn-warning-outline,
 .btn-warning-outline:active {
   background: none;
-  border-color: #374c51;
-  color: #374c51;
+  border-color: #2c3234;
+  color: #2c3234;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
 .btn-warning-outline.focus,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #60858e;
-  border-color: #60858e;
+  background-color: #5b686b;
+  border-color: #5b686b;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #60858e !important;
-  border-color: #60858e !important;
+  background-color: #5b686b !important;
+  border-color: #5b686b !important;
 }
 .btn-danger-outline,
 .btn-danger-outline:active {
@@ -437,7 +437,7 @@ body {
   color: #b1a374 !important;
 }
 .text-warning {
-  color: #60858e !important;
+  color: #5b686b !important;
 }
 .text-danger {
   color: #b1a374 !important;
@@ -466,7 +466,7 @@ a.text-info:focus {
 }
 a.text-warning:hover,
 a.text-warning:focus {
-  color: #374c51 !important;
+  color: #2c3234 !important;
 }
 a.text-danger:hover,
 a.text-danger:focus {
@@ -487,7 +487,7 @@ a.text-black:focus {
   background-color: #b1a374;
 }
 .alert-warning {
-  background-color: #60858e;
+  background-color: #5b686b;
 }
 .alert-danger {
   background-color: #b1a374;
@@ -536,7 +536,7 @@ a:hover {
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
-  color: #a9bfc5;
+  color: #9ba7aa;
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
@@ -1095,7 +1095,7 @@ section.lazy-placeholder:after {
 .cid-s7P8fGindk {
   padding-top: 120px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/meat-shop-business-plan-724x384.jpg");
+  background-image: url("../../../assets/images/images-272x185.jpg");
 }
 .cid-s7P8fGindk .card-box {
   padding: 0 2rem;
